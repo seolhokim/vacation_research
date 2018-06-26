@@ -2,6 +2,7 @@
 
 1. 다중공선성 (multicollinearity)
 2. stacking
+3. oversampling, downsampling, Synthetic minority sampling technique (SMOTE)
 
 읽은 논문
 
@@ -10,6 +11,6 @@
 
 #예정
 
-1. oversampling, downsampling, Synthetic minority sampling technique (SMOTE)
+1. 
 
 2. 
