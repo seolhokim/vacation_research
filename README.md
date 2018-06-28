@@ -11,6 +11,6 @@
 
 #예정
 
-1. 
+1. autoEncoder
 
-2. 
+2. reinforcement learning
