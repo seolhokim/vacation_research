@@ -3,7 +3,7 @@
 1. 다중공선성 (multicollinearity)
 2. stacking
 3. oversampling, downsampling, Synthetic minority sampling technique (SMOTE)
-
+4. reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
 정리중인 것 
 
 1.reinforcement learning <- 정리중 . DQN(반절됨) , policy gredient 정리,구현할 예정
@@ -17,3 +17,5 @@
 #예정
 
 1. autoEncoder
+2. a3c, montecarlo, policy-gradient
+3. video classifier(real-time classifier)
