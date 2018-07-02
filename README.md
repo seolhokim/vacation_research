@@ -4,10 +4,11 @@
 2. stacking
 3. oversampling, downsampling, Synthetic minority sampling technique (SMOTE)
 4. reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
+5. google_stock_lstm <- 논문 쓰는데 사용하기 위해 간단히 구현했음.
+
 정리중인 것 
 
-1.reinforcement learning <- 정리중 . DQN(반절됨) , policy gredient 정리,구현할 예정
-2. lstm <- 논문 쓰는데 사용하기 위해 간단히 구현했음.
+1. 
 
 읽거나 구현한 논문
 
