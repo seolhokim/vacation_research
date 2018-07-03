@@ -8,7 +8,7 @@
 
 진행 중인 프로젝트
 
-1. bus_route_improvement
+1. bus_route_improvement 
 2. emotion_analysis
 
 정리중인 것 
@@ -25,3 +25,4 @@
 1. autoEncoder
 2. a3c, montecarlo, policy-gradient
 3. video classifier(real-time classifier)
+ -openCV 연습
