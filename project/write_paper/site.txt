@@ -1,0 +1,3 @@
+https://www.kaggle.com/usact2012/predict-stock-prices-with-lstm
+
+https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo
