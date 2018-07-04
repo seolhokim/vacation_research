@@ -14,8 +14,8 @@
 정리중인 것 
 
 1.video classifier(real-time classifier)
- -openCV 연습중
- -PIL과 함께 해서 레이어 받아와 학습 시키는 것이 
+ --openCV 연습중
+ --PIL과 함께 해서 레이어 받아와 학습 시
 
 읽거나 구현한 논문
 
