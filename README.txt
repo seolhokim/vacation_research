@@ -6,14 +6,14 @@ skills
 
 my_study
 1.reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
-2.google_stock_lstm <- 논문 쓰는데 사용하기 위해 간단히 구현했음.
+2.
 3.openCV and PIL
 
 진행 중인 프로젝트
 project
 1. bus_route_improvement 
 2. emotion_analysis
-
+3. write_paper
 정리중인 것 
 
 
