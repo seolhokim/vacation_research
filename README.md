@@ -14,6 +14,7 @@
 정리중인 것 
 
 1.video classifier(real-time classifier)
+
 1)openCV 연습중
 2)PIL과 함께 해서 레이어 받아와 학습
 
