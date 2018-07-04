@@ -1,0 +1,13 @@
+http://www.modulabs.co.kr/RL_library/2621
+
+https://jamiekang.github.io/2017/05/07/playing-atari-with-deep-reinforcement-learning/
+
+https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/
+
+https://www.youtube.com/watch?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS&time_continue=144&v=V7_cNTfm2i8
+
+https://www.youtube.com/watch?v=gINks-YCTBs
+
+
+https://keon.io/deep-q-learning/
+다켜놓고 공부하면됨
