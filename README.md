@@ -1,22 +1,21 @@
 공부한 것을 올리는 공간입니다.
-
+skills
 1. 다중공선성 (multicollinearity)
 2. stacking
 3. oversampling, downsampling, Synthetic minority sampling technique (SMOTE)
-4. reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
-5. google_stock_lstm <- 논문 쓰는데 사용하기 위해 간단히 구현했음.
+
+my_study
+1.reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
+2.google_stock_lstm <- 논문 쓰는데 사용하기 위해 간단히 구현했음.
+3.openCV and PIL
 
 진행 중인 프로젝트
-
+project
 1. bus_route_improvement 
 2. emotion_analysis
 
 정리중인 것 
 
-1.video classifier(real-time classifier)
-
-1)openCV 연습중
-2)PIL과 함께 해서 레이어 받아와 학습
 
 
 읽거나 구현한 논문
