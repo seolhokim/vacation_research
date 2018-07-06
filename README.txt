@@ -17,12 +17,7 @@ project
   2. emotion_analysis
   3. write_paper
 
-정리중인 것 
-
-
-
-읽거나 구현한 논문
-
+paper (읽거나 구현한 논문)
   1. Distilling_the_knowledge_in_a_nueral_network
   2. Playing_Atari_with_Deep_Reinforcement_Learning
   3. Auto-encoding_variational_bayes
@@ -30,4 +25,8 @@ project
 #예정
 
   1. a3c, montecarlo, policy-gradient
+
+
+정리중인 것 
+
 
