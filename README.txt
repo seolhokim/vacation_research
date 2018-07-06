@@ -7,13 +7,11 @@ skills
 
 my_study
   1.reinforcement_learning -DQN으로 구현한 cart pole 게임 agent
-   2.
-  3.openCV and PIL
+  2.openCV and PIL
 
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
 
-진행 중인 프로젝트
 project
   1. bus_route_improvement 
   2. emotion_analysis
@@ -28,8 +26,8 @@ project
   1. Distilling_the_knowledge_in_a_nueral_network
   2. Playing_Atari_with_Deep_Reinforcement_Learning
   3. Auto-encoding_variational_bayes
+
 #예정
 
-  1. autoEncoder
-  2. a3c, montecarlo, policy-gradient
+  1. a3c, montecarlo, policy-gradient
 
