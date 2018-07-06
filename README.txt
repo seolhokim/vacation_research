@@ -27,7 +27,7 @@ project
 
   1. Distilling_the_knowledge_in_a_nueral_network
   2. Playing_Atari_with_Deep_Reinforcement_Learning
-
+  3. Auto-encoding_variational_bayes
 #예정
 
   1. autoEncoder
