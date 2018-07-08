@@ -22,7 +22,7 @@ def process_img(image):
     #crop out the dino agent from the frame
     
     #image = image[100:600,:] #img[y:y+h, x:x+w]
-    image = cv2.resize(image, (0,0), fx = 0.5, fy = 0.5) 
+    #image = cv2.resize(image, (0,0), fx = 0.5, fy = 0.5) 
     image = cv2.Canny(image, threshold1 = 120, threshold2 = 250) #apply the canny edge detection
     return  image 
 
@@ -46,7 +46,23 @@ result = cv2.matchTemplate(small_image, large_image,methods)
 min_val,max_val,min_loc,max_loc = cv2.minMaxLoc(result)
 top_left = max_loc
 bottom_right =(top_left[0]+w,top_left[1]+h)
-cv2.rectangle(large_image,top_left,bottom_right,255,5)
+#cv2.rectangle(large_image,top_left,bottom_right,255,5)
 
-plt.imshow(large_image)
-plt.show()
+threshold = .8
+loc = np.where(result >= threshold)
+print(loc)
+import pyautogui
+pyautogui.click(top_left[0]+w/2,top_left[1]+h/2)
+
+
+'''
+x = 2520
+y = 414
+mouse.leftClick(x, y)
+#키를 눌러주는 tool
+import win32com.client
+shell = win32com.client.Dispatch("WScript.Shell")
+shell.SendKeys('asdasd')
+'''
+
+
