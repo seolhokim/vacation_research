@@ -14,6 +14,9 @@ infinite_stairs
 
 project
   1. bus_route_improvement 
+    1)Graph thery
+      -vertice, edges 구현
+      -dijkstraSSSP 구현
   2. emotion_analysis
   3. write_paper
 
