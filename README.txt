@@ -24,7 +24,7 @@ paper (읽거나 구현한 논문)
   1. Distilling_the_knowledge_in_a_nueral_network
   2. Playing_Atari_with_Deep_Reinforcement_Learning
   3. Auto-encoding_variational_bayes
-
+  4. Generative_adversarial_nets
 #예정
 
   1. a3c, montecarlo, policy-gradient
