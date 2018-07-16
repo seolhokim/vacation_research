@@ -19,6 +19,8 @@ project
     1)Graph thery
       -vertice, edges 구현
       -dijkstraSSSP 구현
+    2)Node_Link_Visualization
+      -NetworkX package를 이용해 더 쉽게 node, edge 구현
   2. emotion_analysis
   3. write_paper
     1)sentimental analysis를 이용해 KOSPI 등락 상관계수분석.
