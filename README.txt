@@ -22,6 +22,7 @@ project
     2)Node_Link_Visualization
       -NetworkX package를 이용해 더 쉽게 node, edge 구현
   2. emotion_analysis
+    -tokenizer 등 기본 구현 방법 
   3. write_paper
     1)sentimental analysis를 이용해 KOSPI 등락 상관계수분석.
       -최대 상관계수 0.34를이용해 상관계수 0.44인 값 뽑아냄 GradientBoostingRegressor 이용함
