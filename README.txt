@@ -38,8 +38,8 @@ paper (읽거나 구현한 논문)
 
   1. a3c, montecarlo, policy-gradient
   2. Domain-Adversarial Training of Neural Networks (DANN) 
-
+  3. yolo
+  4. mnist vae를 사용해 data scaling후 학습하면 더잘될까?
 정리중인 것 
 
-  1. mnist vae를 사용해 data scaling후 학습하면 더잘될까?
   
