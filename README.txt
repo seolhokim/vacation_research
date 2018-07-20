@@ -10,7 +10,9 @@ my_study
   2.openCV and PIL
   3.GAN
     -mnist를 통한 image generate 
-    -CycleGAN을 이용한 zebra2horse
+    -CycleGAN
+      -zebra2horse
+      -monet2picture
   4.VAE
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
