@@ -37,6 +37,7 @@ paper (읽거나 구현한 논문)
   3. Auto-encoding_variational_bayes
   4. Generative_adversarial_nets
   5. Unpaired_Image-to-Image_Translation_using_Cycle-Consistent_Adversarial_Networks
+  6. Efficient_Neural_Architecture_Search_via_Parameter_Sharing
 #예정
 
   1. a3c, montecarlo, policy-gradient
