@@ -14,6 +14,7 @@ my_study
       -zebra2horse
       -monet2picture
   4.VAE
+  5. A3C
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
 
@@ -41,7 +42,7 @@ paper (읽거나 구현한 논문)
   7. Asynchronous_methods_for_deep_reinforcement_learning
 #예정
 
-  1. a3c, montecarlo, policy-gradient
+  1. https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a -
   2. Domain-Adversarial Training of Neural Networks (DANN) 
   3. yolo
   4. mnist vae를 사용해 data scaling후 학습하면 더잘될까?
