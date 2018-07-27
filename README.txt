@@ -15,6 +15,7 @@ my_study
       -monet2picture
   4.VAE
   5. A3C
+    -Advantage Actor-Critic (A2C)연습중
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
 
