@@ -43,6 +43,7 @@ paper (읽거나 구현한 논문)
   6. Efficient_Neural_Architecture_Search_via_Parameter_Sharing
   7. Asynchronous_methods_for_deep_reinforcement_learning
   8. Continuos_control_with_deep_reinforcement_learning
+  9. You_Only_Look_Once_Unified,Read-Time_Object_Detection
 #예정
 
   1. https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a -
