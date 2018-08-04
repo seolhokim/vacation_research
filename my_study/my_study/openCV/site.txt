@@ -1,6 +1,0 @@
-https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606 10줄만에 detector 만들기
-
-fifa 18 학습기
-
-https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675
-
