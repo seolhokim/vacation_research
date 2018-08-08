@@ -16,6 +16,7 @@ my_study
   4.VAE
   5. A3C
   -almost completed
+  - why agent isn't trained?
   6. DDPG
   -base
     
