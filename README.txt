@@ -15,7 +15,6 @@ my_study
       -monet2picture
   4.VAE
   5. A3C
-  -almost completed
   - why agent isn't trained?
   6. DDPG
   -base
@@ -33,7 +32,8 @@ project
   2. emotion_analysis
     -tokenizer 등 기본 구현 방법 
     -word2vec를 통한 word embedding
-    -Bi-LSTM + CNN 모델(input_dim 문제 해결 및 batch_size ) 
+    -Bi-LSTM + CNN 모델(input_dim 문제 해결 및 batch_size )
+    -평균 accuracy 55~60%
   3. write_paper
     1)sentimental analysis를 이용해 KOSPI 등락 상관계수분석.
       -최대 상관계수 0.34를이용해 상관계수 0.44인 값 뽑아냄 GradientBoostingRegressor 이용함
@@ -48,11 +48,14 @@ paper (읽거나 구현한 논문)
   7. Asynchronous_methods_for_deep_reinforcement_learning
   8. Continuos_control_with_deep_reinforcement_learning
   9. You_Only_Look_Once_Unified,Read-Time_Object_Detection
+  10.An_Overview_of_Genetic_Algorithm_and_Modeling
+  11.Principles_of_Tabu_Search
+  12.An_Improved_Simulated_Annealing_Algorithm_for_Travelling_Salesman_Problem
 #예정
 
   1. https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a -
   2. Domain-Adversarial Training of Neural Networks (DANN) 
-  3. yolo
+  3. yolo 더공부해보기
   4. mnist vae를 사용해 data scaling후 학습하면 더잘될까?
 정리중인 것 
 
