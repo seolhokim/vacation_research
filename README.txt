@@ -51,6 +51,7 @@ paper (읽거나 구현한 논문)
   10.An_Overview_of_Genetic_Algorithm_and_Modeling
   11.Principles_of_Tabu_Search
   12.An_Improved_Simulated_Annealing_Algorithm_for_Travelling_Salesman_Problem
+  13.Mixture_Density_Networks
 #예정
 
   1. https://medium.com/machine-learning-world/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a -
