@@ -17,7 +17,9 @@ my_study
   5. A3C
   - why agent isn't trained?
   6. DDPG
-  -base
+  -기본만
+  7. MDN
+  -구현중
     
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
