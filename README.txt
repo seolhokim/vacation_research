@@ -60,6 +60,11 @@ paper (읽거나 구현한 논문)
   2. Domain-Adversarial Training of Neural Networks (DANN) 
   3. yolo 더공부해보기
   4. mnist vae를 사용해 data scaling후 학습하면 더잘될까?
-정리중인 것 
+ 
 
-  
+읽은 책
+  1. 처음 배우는 머신러닝
+  2. 머신러닝과 통계
+  3. 그림과 수시으로 배우는 통통 인공지능
+  4. 텍스트 마이닝
+  5. 파이썬과 케라스로 배우는 강화학습 : 내 손으로 직접 구현하는 게임 인공지능
