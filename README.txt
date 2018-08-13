@@ -37,8 +37,7 @@ project
     -Bi-LSTM + CNN 모델(input_dim 문제 해결 및 batch_size )
     -평균 accuracy 55~60%
   3. write_paper
-    1)sentimental analysis를 이용해 KOSPI 등락 상관계수분석.
-      -최대 상관계수 0.34를이용해 상관계수 0.44인 값 뽑아냄 GradientBoostingRegressor 이용함
+  
 
 paper (읽거나 구현한 논문)
   1. Distilling_the_knowledge_in_a_nueral_network
