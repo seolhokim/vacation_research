@@ -21,6 +21,7 @@ my_study
   7. MDN
   -구현중
   8. Chat_Bot
+  -
 infinite_stairs
   1. 무한의 계단을 DQN으로 agent를 구현해, 최대시간까지 갈수 있는 agent
 
